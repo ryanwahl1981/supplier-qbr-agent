@@ -1,0 +1,30 @@
+incident_id,supplier_id,date,category,type,description
+INC-001,SUP-001,2026-08-12,LOGISTICS,INCIDENT,Ocean freight rerouted via an alternate port after berth congestion; three shipments arrived 6 to 9 days beyond quoted lead time.
+INC-002,SUP-001,2026-09-03,LOGISTICS,INCIDENT,Agreed load consolidation was not implemented; two orders shipped as partial loads and a third was air-freighted.
+INC-003,SUP-001,2026-07-22,ENGINEERING,COMMENDATION,Proposed a housing redesign that removes one machining step; accepted by engineering.
+INC-004,SUP-001,2026-08-30,QUALITY,COMMENDATION,No defects escaped on three consecutive lots.
+INC-005,SUP-003,2026-07-15,DELIVERY,INCIDENT,Main machining line down for 9 days after a spindle failure; backlog of 14 orders.
+INC-006,SUP-003,2026-08-28,DELIVERY,INCIDENT,Recovery plan missed because second-shift staffing was not in place; deliveries ran 5 to 12 days late.
+INC-007,SUP-003,2026-08-05,ENGINEERING,COMMENDATION,Answered an engineering change notice in 2 days and proposed a tolerance change that cut part cost.
+INC-008,SUP-004,2026-07-01,COST,INCIDENT,Notified a 6% price increase citing a raw material surcharge outside the contract index clause.
+INC-009,SUP-004,2026-09-10,COST,INCIDENT,Requested a second surcharge without supporting index data.
+INC-010,SUP-004,2026-08-02,QUALITY,INCIDENT,Out-of-spec plating found on 3 lots; containment took 11 days.
+INC-011,SUP-004,2026-09-14,QUALITY,INCIDENT,Corrective action for the plating issue has been open 40 days with the root cause not verified.
+INC-012,SUP-004,2026-08-20,LOGISTICS,COMMENDATION,Delivered a dedicated freight lane agreement that kept shipments within quoted lead time.
+INC-013,SUP-005,2026-07-24,RESPONSIVENESS,INCIDENT,Quote and delivery-status requests went unanswered for 6 business days.
+INC-014,SUP-005,2026-09-09,RESPONSIVENESS,INCIDENT,The delivery date for PO-0020 was never confirmed and buyer escalations went unanswered.
+INC-015,SUP-005,2026-08-14,COST,COMMENDATION,Held pricing flat through a steel index increase.
+INC-016,SUP-006,2026-07-30,ENGINEERING,INCIDENT,A design-change request took 14 days to answer; two builds waited on a drawing update.
+INC-017,SUP-006,2026-09-18,ENGINEERING,INCIDENT,A committed cost-down on fastener standardization slipped pending tooling approval.
+INC-018,SUP-006,2026-08-25,DELIVERY,COMMENDATION,"Delivered every August order in full, including a 3-day expedite."
+INC-019,SUP-007,2026-08-11,RESPONSIVENESS,COMMENDATION,Answered nearly every request the same day.
+INC-020,SUP-007,2026-09-02,COST,COMMENDATION,Passed a contract-index price decrease through ahead of schedule.
+INC-021,SUP-007,2026-09-16,DELIVERY,INCIDENT,Three September orders shipped 7 to 10 percent above the PO quantity; receiving held the excess pending a planning decision.
+INC-022,SUP-008,2026-09-12,DELIVERY,INCIDENT,Two shipments ran 4 days late after a carrier capacity shortfall.
+INC-023,SUP-009,2026-07-18,QUALITY,COMMENDATION,No defective parts shipped in the quarter.
+INC-024,SUP-009,2026-08-27,RESPONSIVENESS,COMMENDATION,Resolved all open buyer requests within the agreed response time.
+INC-025,SUP-002,2026-08-19,QUALITY,COMMENDATION,Closed corrective actions faster than in any quarter this year.
+INC-026,SUP-002,2026-09-05,DELIVERY,COMMENDATION,Met all committed ship dates on a rush build.
+INC-027,SUP-010,2026-07-29,DELIVERY,COMMENDATION,Shipped on time through a port slowdown.
+INC-028,SUP-012,2026-08-08,COST,COMMENDATION,Offered volume-tier pricing without being asked.
+INC-029,SUP-011,2026-09-01,DELIVERY,INCIDENT,One late shipment of corrugated cartons; resolved within a week.

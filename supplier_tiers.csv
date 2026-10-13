@@ -1,0 +1,13 @@
+supplier_id,name,country,tier,reasons
+SUP-001,Pacific Components Ltd,Taiwan,HIGH,active HIGH alert ALT-001 (TYPHOON) in Taiwan
+SUP-002,Formosa Circuits Co,Taiwan,HIGH,active HIGH alert ALT-001 (TYPHOON) in Taiwan
+SUP-003,Nordic Precision AB,Sweden,HIGH,on-time delivery fell from 94% to 82% over six months
+SUP-004,Gulf Metals FZE,UAE,HIGH,financial health score 38 is below 45
+SUP-005,Midwest Fastener Co,USA,MEDIUM,raised one step: PO PO-0020 for ITM-020 is 22 days late and that item is short
+SUP-006,Saigon Assembly JSC,Vietnam,LOW,no risk triggers
+SUP-007,Bajio Wire & Cable SA,Mexico,MEDIUM,active MEDIUM alert ALT-003 (CUSTOMS) in Mexico
+SUP-008,Rhein Magnetics GmbH,Germany,MEDIUM,financial health score 52 is below 60; last-3-month on-time delivery 87.7% is below the 90% target
+SUP-009,Kansai Sensors KK,Japan,HIGH,active HIGH alert ALT-005 (EARTHQUAKE) in Japan
+SUP-010,Penang Semiconductor Sdn,Malaysia,LOW,no risk triggers
+SUP-011,Great Lakes Packaging,USA,LOW,no risk triggers
+SUP-012,Alpine Connectors AG,Switzerland,LOW,no risk triggers

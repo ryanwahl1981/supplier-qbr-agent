@@ -1,0 +1,13 @@
+supplier_id,name,country,commodity,quality_class
+SUP-001,Pacific Components Ltd,Taiwan,Printed circuit boards,PRECISION
+SUP-002,Formosa Circuits Co,Taiwan,Circuit assemblies,PRECISION
+SUP-003,Nordic Precision AB,Sweden,Precision machined parts,STANDARD
+SUP-004,Gulf Metals FZE,UAE,Plated metal parts,STANDARD
+SUP-005,Midwest Fastener Co,USA,Fasteners and hardware,STANDARD
+SUP-006,Saigon Assembly JSC,Vietnam,Box-build assemblies,STANDARD
+SUP-007,Bajio Wire & Cable SA,Mexico,Wire and cable,PRECISION
+SUP-008,Rhein Magnetics GmbH,Germany,Magnetic components,PRECISION
+SUP-009,Kansai Sensors KK,Japan,Precision sensors,PRECISION
+SUP-010,Penang Semiconductor Sdn,Malaysia,Semiconductors,PRECISION
+SUP-011,Great Lakes Packaging,USA,Packaging,STANDARD
+SUP-012,Alpine Connectors AG,Switzerland,Connectors,PRECISION

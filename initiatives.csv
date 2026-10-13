@@ -1,0 +1,61 @@
+initiative_id,supplier_id,type,horizon,description,annual_savings_target_usd,committed_to_date_usd,realized_to_date_usd,status,target_completion_date
+INI-001,SUP-001,ENGINEERING,SHORT,Relax a non-critical tolerance on the housing drawing,56000,28000,29400,AHEAD_OF_PLAN,2026-12-31
+INI-002,SUP-001,ENGINEERING,MEDIUM,Replace a machined feature with a stamped equivalent,88000,44000,46200,AHEAD_OF_PLAN,2027-09-30
+INI-003,SUP-001,LOGISTICS,SHORT,Switch non-urgent replenishment from air to ocean,45000,22500,14625,AT_RISK,2026-12-31
+INI-004,SUP-001,LOGISTICS,MEDIUM,Vendor-managed inventory with weekly replenishment,100000,50000,26700,AT_RISK,2027-09-30
+INI-005,SUP-001,ENGINEERING,LONG,Platform redesign to cut part count,270000,0,0,IN_DESIGN,2028-12-31
+INI-006,SUP-002,ENGINEERING,SHORT,Consolidate two connector variants into one,62000,31000,31930,AHEAD_OF_PLAN,2026-12-31
+INI-007,SUP-002,ENGINEERING,MEDIUM,Qualify an alternate lower-cost material,96000,48000,43120,ON_TRACK,2027-09-30
+INI-008,SUP-002,LOGISTICS,SHORT,Consolidate weekly shipments into a single pickup,50000,25000,17250,AT_RISK,2026-12-31
+INI-009,SUP-002,LOGISTICS,MEDIUM,Packaging redesign to raise container fill,110000,55000,44350,ON_TRACK,2027-09-30
+INI-010,SUP-002,LOGISTICS,LONG,Multi-year ocean freight contract with volume tiers,290000,0,0,NOT_STARTED,2028-12-31
+INI-011,SUP-003,ENGINEERING,SHORT,Standardize fastener sizes across two assemblies,68000,34000,32470,ON_TRACK,2026-12-31
+INI-012,SUP-003,ENGINEERING,MEDIUM,Redesign a bracket to remove a secondary operation,104000,52000,56540,AHEAD_OF_PLAN,2027-09-30
+INI-013,SUP-003,LOGISTICS,SHORT,Move to a fixed-rate freight quote,55000,27500,22000,ON_TRACK,2026-12-31
+INI-014,SUP-003,LOGISTICS,MEDIUM,Dedicated freight lane agreement at a fixed rate,120000,60000,48000,ON_TRACK,2027-09-30
+INI-015,SUP-003,ENGINEERING,LONG,Redesign around a lower-cost material family,310000,0,0,IN_DESIGN,2028-12-31
+INI-016,SUP-004,ENGINEERING,SHORT,Switch to a lower-cost standard plating spec,74000,37000,29045,ON_TRACK,2026-12-31
+INI-017,SUP-004,ENGINEERING,MEDIUM,Merge two sub-assemblies to cut part count,112000,56000,43960,ON_TRACK,2027-09-30
+INI-018,SUP-004,LOGISTICS,SHORT,Release orders earlier to cut expedites,60000,30000,33450,AHEAD_OF_PLAN,2026-12-31
+INI-019,SUP-004,LOGISTICS,MEDIUM,Combined pickups with two nearby suppliers,130000,65000,64875,ON_TRACK,2027-09-30
+INI-020,SUP-004,LOGISTICS,LONG,Regional consolidation hub near the plant,330000,0,0,NOT_STARTED,2028-12-31
+INI-021,SUP-005,ENGINEERING,SHORT,Relax a non-critical tolerance on the housing drawing,80000,40000,32800,ON_TRACK,2026-12-31
+INI-022,SUP-005,ENGINEERING,MEDIUM,Replace a machined feature with a stamped equivalent,120000,60000,41200,AT_RISK,2027-09-30
+INI-023,SUP-005,LOGISTICS,SHORT,Switch non-urgent replenishment from air to ocean,65000,32500,22913,WATCH,2026-12-31
+INI-024,SUP-005,LOGISTICS,MEDIUM,Vendor-managed inventory with weekly replenishment,140000,70000,57550,ON_TRACK,2027-09-30
+INI-025,SUP-005,ENGINEERING,LONG,Platform redesign to cut part count,350000,0,0,IN_DESIGN,2028-12-31
+INI-026,SUP-006,ENGINEERING,SHORT,Consolidate two connector variants into one,86000,43000,22360,AT_RISK,2026-12-31
+INI-027,SUP-006,ENGINEERING,MEDIUM,Qualify an alternate lower-cost material,128000,64000,41840,AT_RISK,2027-09-30
+INI-028,SUP-006,LOGISTICS,SHORT,Consolidate weekly shipments into a single pickup,70000,35000,25900,WATCH,2026-12-31
+INI-029,SUP-006,LOGISTICS,MEDIUM,Packaging redesign to raise container fill,150000,75000,55500,WATCH,2027-09-30
+INI-030,SUP-006,LOGISTICS,LONG,Multi-year ocean freight contract with volume tiers,370000,0,0,NOT_STARTED,2028-12-31
+INI-031,SUP-007,ENGINEERING,SHORT,Standardize fastener sizes across two assemblies,92000,46000,36800,DELAYED,2026-08-31
+INI-032,SUP-007,ENGINEERING,MEDIUM,Redesign a bracket to remove a secondary operation,136000,68000,54400,ON_TRACK,2027-09-30
+INI-033,SUP-007,LOGISTICS,SHORT,Move to a fixed-rate freight quote,75000,37500,31875,ON_TRACK,2026-12-31
+INI-034,SUP-007,LOGISTICS,MEDIUM,Dedicated freight lane agreement at a fixed rate,160000,80000,58600,WATCH,2027-09-30
+INI-035,SUP-007,ENGINEERING,LONG,Redesign around a lower-cost material family,390000,0,0,IN_DESIGN,2028-12-31
+INI-036,SUP-008,ENGINEERING,SHORT,Switch to a lower-cost standard plating spec,98000,49000,40915,ON_TRACK,2026-12-31
+INI-037,SUP-008,ENGINEERING,MEDIUM,Merge two sub-assemblies to cut part count,144000,72000,50440,WATCH,2027-09-30
+INI-038,SUP-008,LOGISTICS,SHORT,Release orders earlier to cut expedites,80000,40000,28800,WATCH,2026-12-31
+INI-039,SUP-008,LOGISTICS,MEDIUM,Combined pickups with two nearby suppliers,170000,85000,71200,ON_TRACK,2027-09-30
+INI-040,SUP-008,LOGISTICS,LONG,Regional consolidation hub near the plant,410000,0,0,NOT_STARTED,2028-12-31
+INI-041,SUP-009,ENGINEERING,SHORT,Relax a non-critical tolerance on the housing drawing,104000,52000,44460,ON_TRACK,2026-12-31
+INI-042,SUP-009,ENGINEERING,MEDIUM,Replace a machined feature with a stamped equivalent,152000,76000,75220,ON_TRACK,2027-09-30
+INI-043,SUP-009,LOGISTICS,SHORT,Switch non-urgent replenishment from air to ocean,85000,42500,38462,ON_TRACK,2026-12-31
+INI-044,SUP-009,LOGISTICS,MEDIUM,Vendor-managed inventory with weekly replenishment,180000,90000,81450,ON_TRACK,2027-09-30
+INI-045,SUP-009,ENGINEERING,LONG,Platform redesign to cut part count,430000,0,0,IN_DESIGN,2028-12-31
+INI-046,SUP-010,ENGINEERING,SHORT,Consolidate two connector variants into one,110000,55000,48950,ON_TRACK,2026-12-31
+INI-047,SUP-010,ENGINEERING,MEDIUM,Qualify an alternate lower-cost material,160000,80000,71200,ON_TRACK,2027-09-30
+INI-048,SUP-010,LOGISTICS,SHORT,Consolidate weekly shipments into a single pickup,90000,45000,38925,ON_TRACK,2026-12-31
+INI-049,SUP-010,LOGISTICS,MEDIUM,Packaging redesign to raise container fill,190000,95000,70975,WATCH,2027-09-30
+INI-050,SUP-010,LOGISTICS,LONG,Multi-year ocean freight contract with volume tiers,450000,0,0,NOT_STARTED,2028-12-31
+INI-051,SUP-011,ENGINEERING,SHORT,Standardize fastener sizes across two assemblies,116000,58000,49300,ON_TRACK,2026-12-31
+INI-052,SUP-011,ENGINEERING,MEDIUM,Redesign a bracket to remove a secondary operation,168000,84000,60040,WATCH,2027-09-30
+INI-053,SUP-011,LOGISTICS,SHORT,Move to a fixed-rate freight quote,95000,47500,31350,AT_RISK,2026-12-31
+INI-054,SUP-011,LOGISTICS,MEDIUM,Dedicated freight lane agreement at a fixed rate,200000,100000,77800,ON_TRACK,2027-09-30
+INI-055,SUP-011,ENGINEERING,LONG,Redesign around a lower-cost material family,470000,0,0,IN_DESIGN,2028-12-31
+INI-056,SUP-012,ENGINEERING,SHORT,Switch to a lower-cost standard plating spec,122000,61000,43920,WATCH,2026-12-31
+INI-057,SUP-012,ENGINEERING,MEDIUM,Merge two sub-assemblies to cut part count,176000,88000,75280,ON_TRACK,2027-09-30
+INI-058,SUP-012,LOGISTICS,SHORT,Release orders earlier to cut expedites,100000,50000,46000,ON_TRACK,2026-12-31
+INI-059,SUP-012,LOGISTICS,MEDIUM,Combined pickups with two nearby suppliers,210000,105000,96600,ON_TRACK,2027-09-30
+INI-060,SUP-012,LOGISTICS,LONG,Regional consolidation hub near the plant,490000,0,0,NOT_STARTED,2028-12-31
